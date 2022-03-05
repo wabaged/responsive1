@@ -162,7 +162,7 @@ footer p {
   }
 }
 
-@media (min-width: 401px) and (max-width: 750px) {
+@media (min-width: 401px) and (max-width: 1050px) {
   .section-boxes {
     width: 50%;
   }
@@ -172,7 +172,7 @@ footer p {
   }
 }
 
-@media (min-width: 751px) {
+@media (min-width: 1051px) {
   .section-main {
     flex-direction: row;
     flex-wrap: nowrap;
